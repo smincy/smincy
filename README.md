@@ -1,4 +1,4 @@
-### Hi there 👋
+### 배울 것들이 너무 많다 👋
 
 <!--
 **smincy/smincy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
