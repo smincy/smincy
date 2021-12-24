@@ -1,4 +1,8 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&color=%23000000&size=30&lines=%EB%B0%B0%EC%9A%B8+%EA%B2%83%EB%93%A4%EC%9D%B4+%EB%84%88%EB%AC%B4+%EB%A7%8E%EB%8B%A4+%F0%9F%91%8B;so+many+things+to+learn...)](https://git.io/typing-svg)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Walnut&theme=holi-theme&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
+
 <!--
 **smincy/smincy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
