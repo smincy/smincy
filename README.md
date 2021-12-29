@@ -1,13 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&color=%23000000&size=30&lines=%EB%B0%B0%EC%9A%B8+%EA%B2%83%EB%93%A4%EC%9D%B4+%EB%84%88%EB%AC%B4+%EB%A7%8E%EB%8B%A4+%F0%9F%91%8B;so+many+things+to+learn...)](https://git.io/typing-svg)
 
 ***
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smincy&include_all_commits=true&show_icons=true&theme=swift)
 
-
-
-
-
-***
 ⚡ Stack  
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -26,6 +20,8 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 
+[stats 확인필요]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smincy&include_all_commits=true&show_icons=true&theme=swift)
 
 **smincy/smincy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
