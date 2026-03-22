@@ -1,44 +1,35 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&color=%23000000&size=30&lines=%EB%B0%B0%EC%9A%B8+%EA%B2%83%EB%93%A4%EC%9D%B4+%EB%84%88%EB%AC%B4+%EB%A7%8E%EB%8B%A4+%F0%9F%91%8B;so+many+things+to+learn...)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&color=%23000000&size=30&lines=%EB%B0%B0%EC%9A%B8+%EA%B2%83%EB%93%A4%EC%9D%B4+%EB%84%88%EB%AC%B4+%EB%A7%8E%EB%8B%A4+%F0%9F%91%8B;so+many+things+to+learn..." alt="Typing SVG" />
+  </a>
+</div>
 
-***
+<br/>
 
-⚡ Stack  
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
+### 👨‍💻 About Me
+- 💼 I’m a Junior Back-End Developer, growing every day by building efficient systems.
+- 💡 I use this GitHub mainly to track my algorithm studies and problem-solving progress.
+- 🌱 I recently started learning Python to expand my tech stack.
+<!-- - 📫 How to reach me: (이메일 주소나 블로그 링크) -->
 
+---
 
+### 🛠️ Tech Stack
 
-<!--
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,py,html,css,js,vue,postgres,github&theme=light" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+</div>
 
-[stats 확인필요]
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smincy&include_all_commits=true&show_icons=true&theme=swift)
+<br/>
 
-**smincy/smincy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=smincy&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smincy&layout=compact&theme=transparent&hide_border=true" />
+</div>
